@@ -1,16 +1,21 @@
-## Hi there 👋
+# Seppe Willems
 
-<!--
-**SeppeWillems13/SeppeWillems13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Welcome to my GitHub profile! I am Seppe Willems, a passionate software developer with a focus on Python programming. I enjoy working on innovative projects that enhance my skills and knowledge in software development.
 
-Here are some ideas to get you started:
+## Projects
+Here are some of my highlighted projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [st-2223-1-d-ee-SeppeWillems13](https://github.com/SeppeWillems13/st-2223-1-d-ee-SeppeWillems13)
+A comprehensive project showcasing my Python and software development skills.
+
+### [world-cup-goal-scorers-globe](https://github.com/SeppeWillems13/world-cup-goal-scorers-globe)
+A Python project that maps all World Cup goal scorers on a globe, combining my interests in sports and data visualization.
+
+## Skills
+- Python
+- C#
+- Javascript
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/seppe-willems-8b9015223/)
